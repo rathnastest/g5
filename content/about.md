@@ -18,4 +18,4 @@ extensions: {}
 
 # About
 
-This publication is created and published with Galascribe g5.
+This publication is created and published with Galascribe g5 review.
